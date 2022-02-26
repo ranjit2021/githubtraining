@@ -3,3 +3,5 @@ chatbox
 emojis
 notifications
 typecheck
+
+image share
